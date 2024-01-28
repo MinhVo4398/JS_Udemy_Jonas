@@ -10,6 +10,7 @@ console.log(firstName);
 console.log(firstName);
 console.log(firstName);
 
+//Variable name conventions
 let jonas_matida = "JM"
 let $function = 27;
 let name = "Jonas"
@@ -26,3 +27,16 @@ let job1 = 'programmer';
 let job2 = 'teacher';
 
 console.log(myFirstJob)
+
+true;
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+
+console.log(typeof true); // boolean
+console.log(typeof javascriptIsFun); // boolean
+console.log(typeof 'Jonas'); // string
+
+javascriptIsFun = 'YES!'; //dynamic typing
+console.log(typeof javascriptIsFun);// string
+
+
