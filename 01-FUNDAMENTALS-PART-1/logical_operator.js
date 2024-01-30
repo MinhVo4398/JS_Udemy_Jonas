@@ -16,3 +16,10 @@ else {
 
 const isTired = true; // C
 console.log(hasDriverLisence & hasGoodVision || isTired);
+
+if(hasDriverLisence && hasGoodVision && !isTired) {
+    console.log('Sarah is able to drive!');
+}
+else {
+    console.log('Someone else should drive');
+}
