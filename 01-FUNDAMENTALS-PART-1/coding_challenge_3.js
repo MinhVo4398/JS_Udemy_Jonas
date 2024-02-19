@@ -31,3 +31,5 @@ else if(scoreDolphins === scoreKoalas && scoreDolphins >=100 && scoreKoalas >=10
 else {
     console.log('No one wins the trophy')
 }
+
+
